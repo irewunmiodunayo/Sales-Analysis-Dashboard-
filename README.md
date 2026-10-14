@@ -142,4 +142,4 @@ Power BI Dashboard Design
 
 Business Insight Generation
 
-Data-Driven Decision-Makin
+Data-Driven Decision-Making
